@@ -14,6 +14,7 @@ import cpa.subos.xml.XmlParser;
 import cpa.subos.xml.XmlWriter;
 import io.github.coalangsoft.richtextfxextension.PropertyBasedCodeArea;
 import io.github.coalangsoft.richtextfxextension.StyleHelper;
+import io.github.coalangsoft.richtextfxextension.XmlStyleHelper;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;

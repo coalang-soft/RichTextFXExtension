@@ -1,7 +1,4 @@
-package test;
-
-import io.github.coalangsoft.richtextfxextension.StyleHelper;
-import io.github.coalangsoft.richtextfxextension.StyleInfo;
+package io.github.coalangsoft.richtextfxextension;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

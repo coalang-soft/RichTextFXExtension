@@ -5,3 +5,5 @@ RichTextFXExtension.iml
 *.css
 *.xml
 out
+.classpath
+.project
